@@ -26,7 +26,7 @@ A text-based RPG game developed in Java where players battle Pokémon with diffe
 1.  **Clone the Repository**\
     Clone the repository to your local machine:
 
-    `git clone [repository-url]`
+    `git clone https://github.com/DaV1005/pokemon_textbased.git`
 
 2.  **Compile the Java Files**\
     Open a terminal, navigate to the project directory, and compile the Java files:
